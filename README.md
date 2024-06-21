@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mancosiris13 (Osiris Macias)
 - 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... CSS, HTML, JavaScript, React.js, Sass, Node.js
+- 🌱 I’m currently learning ...Next.js, JavaScript, React.js, Sass, Node.js
 - 💞️ I’m looking to collaborate on ... Software Development Projects // Frontend Projects
 - 📫 How to reach me ... osifirsmafias99@gmail.com
 - Mobil: + 52 341 118 7931
